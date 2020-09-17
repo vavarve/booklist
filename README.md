@@ -1,0 +1,1 @@
+It is a simple book list written in JavaScript, using Object Oriented Programming, with JS Objects and JS6 Classes. I have two JS files, so you try both ways. One with prototypes and the other with classes.
